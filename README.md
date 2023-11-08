@@ -9,7 +9,7 @@
 - 🌱 **Medium:** https://medium.com/@stepanenko.mark
 
 
-- 🌱 **Twitter:** https://twitter.com/anatoliyaidakov
+- 🌱 **Twitter:** [@marksteptw](https://twitter.com/marksteptw)
 
 
 **Ambassador** - @SubQueryNetwork @ParallelFi
