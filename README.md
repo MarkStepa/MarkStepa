@@ -12,7 +12,7 @@
 - 🌱 **Twitter:** [@marksteptw](https://twitter.com/marksteptw)
 
 
-**Ambassador** - @SubQueryNetwork @ParallelFi
+**Ambassador** - @SubQueryNetwork @AleoHQ @SeiNetwork @PontemNetwork @Islamic_Coin
 
 *
 
