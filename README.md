@@ -14,6 +14,4 @@
 
 **Ambassador** - @SubQueryNetwork @AleoHQ @SeiNetwork @PontemNetwork @Islamic_Coin
 
-*
-
 
